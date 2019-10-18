@@ -51,6 +51,7 @@ npm install
 ![Round1](https://github.com/bradybridges/jeopardy/blob/master/src/images/round1.png)
 ![Round3](https://github.com/bradybridges/jeopardy/blob/master/src/images/round3.png)
 ![Winner](https://github.com/bradybridges/jeopardy/blob/master/src/images/winner.png)
+![Demo](https://github.com/dawnlunacy/jeopardy/blob/master/src/images/game-play.gif)
 
 
 
